@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+.form-control{
+    width:80%;
+}
+.th1{
+    width:20px;
+}
+.th2{
+    width:900px;
+}
+.etask{
+    width: 80%;
+    background: darkgray;
+    height:30px;
+}
+.button{
+    color:blue;
+}
